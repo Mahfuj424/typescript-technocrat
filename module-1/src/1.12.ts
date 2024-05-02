@@ -10,6 +10,7 @@ const searchName = (value: string | null) => {
 // searchName(null)
 
 // unknown
+
 const checkUnknownMethod = (value: unknown) => {
   if (typeof value === "number") {
     const convertedSpeed = (value * 1000) / 3600;
