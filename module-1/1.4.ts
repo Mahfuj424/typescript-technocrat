@@ -15,6 +15,8 @@ let x: undefined = undefined
 let y: null = null;
 
 
+
+
 // non premetive data type
 
 // array
